@@ -1,1 +1,2 @@
-# MPCR-stage-1
+# synchronousBallMovement
+Ball moving synchronously
